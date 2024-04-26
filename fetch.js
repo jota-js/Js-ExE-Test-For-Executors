@@ -2,6 +2,6 @@ executorTesT="console.log('🟢 -- isexecutorclosure'),console.log('🟢 -- newc
 
 
 eval(executorTesT);
-settimeout(function() {
+setTimeout(function() {
 console.warn(' The Unique Creators https://discord.com/invite/9QDNKyYKFk//');
 }, 1);
